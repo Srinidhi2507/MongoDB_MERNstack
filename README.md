@@ -1,4 +1,4 @@
-# Freelancers Application Website
+# Freelancers Application MERN
 
 ## Overview
 **Freelansters** is a web application designed to connect freelancers with clients looking for various services. The platform allows users to find job opportunities, apply for jobs, and hire freelancers across multiple categories, including programming, design, writing, and more.
