@@ -8,9 +8,8 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 - **User Authentication**: Secure login and registration for both freelancers and clients.
