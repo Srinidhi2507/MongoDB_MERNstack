@@ -29,7 +29,7 @@
 To run the Freelansters application locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/freelansters.git
+   git clone https://github.com/Srinidhi2507/freelansters.git
    
 2. Navigate to the project directory:
    cd freelansters
