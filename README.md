@@ -51,15 +51,16 @@ To run the Freelansters application locally, follow these steps:
 7. In another terminal, navigate to the client directory and start the frontend:
    cd client
    npm start
-Usage
-Open your web browser and go to http://localhost:3000 to access the application.
-Register for a new account or log in if you already have an account.
-Navigate through the menus to find jobs or freelancers, and manage your profile.
+   
+##Usage
+-Open your web browser and go to http://localhost:3000 to access the application.
+-Register for a new account or log in if you already have an account.
+-Navigate through the menus to find jobs or freelancers, and manage your profile.
 
-Contributing
-Contributions are welcome! If you have suggestions for improvements or want to report issues, please create an issue or submit a pull request.
+##Contributing
+-Contributions are welcome! If you have suggestions for improvements or want to report issues, please create an issue or submit a pull request.
 
-Acknowledgments
-Inspiration from various freelancing platforms.
-Thanks to the open-source community for providing resources and tools.
+##Acknowledgments
+-Inspiration from various freelancing platforms.
+-Thanks to the open-source community for providing resources and tools.
 
