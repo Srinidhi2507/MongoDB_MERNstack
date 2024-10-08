@@ -60,7 +60,7 @@ Navigate through the menus to find jobs or freelancers, and manage your profile.
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or want to report issues, please create an issue or submit a pull request.
 
-## Acknowledgments
+## Acknowledgements
 Inspiration from various freelancing platforms.
 Thanks to the open-source community for providing resources and tools.
 
