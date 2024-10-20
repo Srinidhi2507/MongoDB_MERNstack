@@ -27,7 +27,7 @@
 To run the Freelansters application locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/Srinidhi2507/fiverr-freelancing-platform.git
+   git clone https://github.com/Srinidhi2507/MongoDB_MERNstack.git
 
 2. Install the required dependencies for the frontend:
    cd client
